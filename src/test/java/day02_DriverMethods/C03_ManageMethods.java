@@ -1,5 +1,5 @@
 
-package day02DriverMethods;
+package day02_DriverMethods;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;

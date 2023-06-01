@@ -1,4 +1,4 @@
-package day01IlkTestveMetotlar;
+package day01_IlkTestveMetotlar;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

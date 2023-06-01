@@ -1,4 +1,4 @@
-package day03Locators;
+package day03_Locators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
